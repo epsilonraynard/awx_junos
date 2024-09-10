@@ -1,4 +1,4 @@
 ---
 collections:
   - name: juniper.device
-  - name: juniper.junos
+  - name: Juniper.junos
